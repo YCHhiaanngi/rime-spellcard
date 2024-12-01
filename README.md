@@ -9,5 +9,6 @@
 
 Remilia Scarlet -> leimiliya
 
-注意：
-因幡てゐ請輸入di
+注意：因幡てゐ請輸入di
+
+附：Java爬蟲，輸出的是.csv格式的詞庫，需要通過其他工具轉換爲.yaml
