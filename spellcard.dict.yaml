@@ -1,0 +1,343 @@
+---
+name: spellcard
+version: "2024-12-01"
+sort: by_weight
+...
+月符「ムーンライトレイ」	lumiya	0
+夜符「ナイトバード」	lumiya	0
+闇符「ディマーケイション」	lumiya	0
+氷符「アイシクルフォール」	qilunuo	0
+雹符「ヘイルストーム」	qilunuo	0
+凍符「パーフェクトフリーズ」	qilunuo	0
+雪符「ダイアモンドブリザード」	qilunuo	0
+華符「芳華絢爛」	meiling	0
+華符「セラギネラ９」	meiling	0
+虹符「彩虹の風鈴」	meiling	0
+幻符「華想夢葛」	meiling	0
+彩符「彩雨」	meiling	0
+彩符「彩光乱舞」	meiling	0
+彩符「極彩颱風」	meiling	0
+火符「アグニシャイン」	paqiuli	0
+水符「プリンセスウンディネ」	paqiuli	0
+木符「シルフィホルン」	paqiuli	0
+土符「レイジィトリリトン」	paqiuli	0
+金符「メタルファティーグ」	paqiuli	0
+火符「アグニシャイン上級」	paqiuli	0
+木符「シルフィホルン上級」	paqiuli	0
+土符「レイジィトリリトン上級」	paqiuli	0
+火符「アグニレイディアンス」	paqiuli	0
+水符「ベリーインレイク」	paqiuli	0
+木符「グリーンストーム」	paqiuli	0
+土符「トリリトンシェイク」	paqiuli	0
+金符「シルバードラゴン」	paqiuli	0
+火＆土符「ラーヴァクロムレク」	paqiuli	0
+木＆火符「フォレストブレイズ」	paqiuli	0
+水＆木符「ウォーターエルフ」	paqiuli	0
+金＆水符「マーキュリポイズン」	paqiuli	0
+土＆金符「エメラルドメガリス」	paqiuli	0
+奇術「ミスディレクション」	xiaoye	0
+奇術「幻惑ミスディレクション」	xiaoye	0
+幻在「クロックコープス」	xiaoye	0
+幻象「ルナクロック」	xiaoye	0
+メイド秘技「操りドール」	xiaoye	0
+幻幽「ジャック・ザ・ルドビレ」	xiaoye	0
+幻世「ザ・ワールド」	xiaoye	0
+メイド秘技「殺人ドール」	xiaoye	0
+奇術「エターナルミーク」	xiaoye	0
+天罰「スターオブダビデ」	leimiliya	0
+冥符「紅色の冥界」	leimiliya	0
+呪詛「ブラド・ツェペシュの呪い」	leimiliya	0
+紅符「スカーレットシュート」	leimiliya	0
+「レッドマジック」	leimiliya	0
+神罰「幼きデーモンロード」	leimiliya	0
+獄符「千本の針の山」	leimiliya	0
+神術「吸血鬼幻想」	leimiliya	0
+紅符「スカーレットマイスタ」	leimiliya	0
+「紅色の幻想郷」	leimiliya	0
+月符「サイレントセレナ」	paqiuli	0
+日符「ロイヤルフレア」	paqiuli	0
+火水木金土符「賢者の石」	paqiuli	0
+禁忌「クランベリートラップ」	fulanduolu	0
+禁忌「レーヴァテイン」	fulanduolu	0
+禁忌「フォーオブアカインド」	fulanduolu	0
+禁忌「カゴメカゴメ」	fulanduolu	0
+禁忌「恋の迷路」	fulanduolu	0
+禁弾「スターボウブレイク」	fulanduolu	0
+禁弾「カタディオプトリック」	fulanduolu	0
+禁弾「過去を刻む時計」	fulanduolu	0
+秘弾「そして誰もいなくなるか？」	fulanduolu	0
+ＱＥＤ「４９５年の波紋」	fulanduolu	0
+霜符「フロストコラムス」	qilunuo	0
+霜符「フロストコラムス -Lunatic-」	qilunuo	0
+寒符「リンガリングコールド -Easy-」	leidi	0
+寒符「リンガリングコールド」	leidi	0
+寒符「リンガリングコールド -Hard-」	leidi	0
+寒符「リンガリングコールド -Lunatic-」	leidi	0
+冬符「フラワーウィザラウェイ -Easy-」	leidi	0
+冬符「フラワーウィザラウェイ」	leidi	0
+白符「アンデュレイションレイ」	leidi	0
+怪符「テーブルターニング」	leidi	0
+仙符「鳳凰卵 -Easy-」	cheng	0
+仙符「鳳凰卵」	cheng	0
+仙符「鳳凰展翅」	cheng	0
+仙符「鳳凰展翅　-Lunatic-」	cheng	0
+式符「飛翔晴明 -Easy-」	cheng	0
+式符「飛翔晴明」	cheng	0
+陰陽「道満晴明」	cheng	0
+陰陽「晴明大紋」	cheng	0
+天符「天仙鳴動 -Easy-」	cheng	0
+天符「天仙鳴動」	cheng	0
+翔符「飛翔韋駄天」	cheng	0
+童符「護法天童乱舞」	cheng	0
+仙符「屍解永遠 -Easy-」	cheng	0
+仙符「屍解永遠」	cheng	0
+鬼符「鬼門金神」	cheng	0
+方符「奇門遁甲」	cheng	0
+操符「乙女文楽」	ailisi	0
+操符「乙女文楽　-Lunatic-」	ailisi	0
+蒼符「博愛の仏蘭西人形 -Easy-」	ailisi	0
+蒼符「博愛の仏蘭西人形」	ailisi	0
+蒼符「博愛の仏蘭西人形 -Hard-」	ailisi	0
+蒼符「博愛のオルレアン人形」	ailisi	0
+紅符「紅毛の和蘭人形 -Easy-」	ailisi	0
+紅符「紅毛の和蘭人形」	ailisi	0
+白符「白亜の露西亜人形」	ailisi	0
+白符「白亜の露西亜人形 -Lunatic-」	ailisi	0
+闇符「霧の倫敦人形 -Easy-」	ailisi	0
+闇符「霧の倫敦人形」	ailisi	0
+廻符「輪廻の西蔵人形」	ailisi	0
+雅符「春の京人形」	ailisi	0
+咒詛「魔彩光の上海人形 -Easy-」	ailisi	0
+咒詛「魔彩光の上海人形」	ailisi	0
+咒詛「魔彩光の上海人形 -Hard-」	ailisi	0
+咒詛「首吊り蓬莱人形」	ailisi	0
+騒符「ファントムディニング -Easy-」	pulizimuliba	0
+騒符「ファントムディニング」	pulizimuliba	0
+騒符「ライブポルターガイスト」	pulizimuliba	0
+騒符「ライブポルターガイスト -Lunatic-」	pulizimuliba	0
+弦奏「グァルネリ・デル・ジェス -Easy-」	lunasa	0
+弦奏「グァルネリ・デル・ジェス」	lunasa	0
+神弦「ストラディヴァリウス」	lunasa	0
+偽弦「スードストラディヴァリウス」	lunasa	0
+管霊「ヒノファンタズム -Easy-」	meilulan	0
+管霊「ヒノファンタズム」	meilulan	0
+冥管「ゴーストクリフォード」	meilulan	0
+管霊「ゴーストクリフォード -Lunatic-」	meilulan	0
+冥鍵「ファツィオーリ冥奏 -Easy-」	lilika	0
+冥鍵「ファツィオーリ冥奏」	lilika	0
+鍵霊「ベーゼンドルファー神奏」	lilika	0
+鍵霊「ベーゼンドルファー神奏 -Lunatic-」	lilika	0
+合葬「プリズムコンチェルト -Easy-」	pulizimuliba	0
+合葬「プリズムコンチェルト」	pulizimuliba	0
+騒葬「スティジャンリバーサイド」	pulizimuliba	0
+騒葬「スティジャンリバーサイド -Lunatic-」	pulizimuliba	0
+大合葬「霊車コンチェルトグロッソ -Easy-」	pulizimuliba	0
+大合葬「霊車コンチェルトグロッソ」	pulizimuliba	0
+大合葬「霊車コンチェルトグロッソ改」	pulizimuliba	0
+大合葬「霊車コンチェルトグロッソ怪」	pulizimuliba	0
+幽鬼剣「妖童餓鬼の断食 -Easy-」	yaomeng	0
+幽鬼剣「妖童餓鬼の断食」	yaomeng	0
+餓鬼剣「餓鬼道草紙」	yaomeng	0
+餓王剣「餓鬼十王の報い」	yaomeng	0
+獄界剣「二百由旬の一閃 -Easy-」	yaomeng	0
+獄界剣「二百由旬の一閃」	yaomeng	0
+獄炎剣「業風閃影陣」	yaomeng	0
+獄神剣「業風神閃斬」	yaomeng	0
+畜趣剣「無為無策の冥罰 -Easy-」	yaomeng	0
+畜趣剣「無為無策の冥罰」	yaomeng	0
+修羅剣「現世妄執」	yaomeng	0
+修羅剣「現世妄執 -Lunatic-」	yaomeng	0
+人界剣「悟入幻想 -Easy-」	yaomeng	0
+人界剣「悟入幻想」	yaomeng	0
+人世剣「大悟顕晦」	yaomeng	0
+人神剣「俗諦常住」	yaomeng	0
+天上剣「天人の五衰 -Easy-」	yaomeng	0
+天上剣「天人の五衰」	yaomeng	0
+天界剣「七魄忌諱」	yaomeng	0
+天神剣「三魂七魄」	yaomeng	0
+六道剣「一念無量劫 -Easy-」	yaomeng	0
+六道剣「一念無量劫」	yaomeng	0
+六道剣「一念無量劫 -Hard-」	yaomeng	0
+六道剣「一念無量劫 -Lunatic-」	yaomeng	0
+亡郷「亡我郷 -さまよえる魂-」	youyouzi	0
+亡郷「亡我郷 -宿罪-」	youyouzi	0
+亡郷「亡我郷 -道無き道-」	youyouzi	0
+亡郷「亡我郷 -自尽-」	youyouzi	0
+亡舞「生者必滅の理 -眩惑-」	youyouzi	0
+亡舞「生者必滅の理 -死蝶-」	youyouzi	0
+亡舞「生者必滅の理 -毒蛾-」	youyouzi	0
+亡舞「生者必滅の理 -魔境-」	youyouzi	0
+華霊「ゴーストバタフライ」	youyouzi	0
+華霊「スワローテイルバタフライ」	youyouzi	0
+華霊「ディープルーティドバタフライ」	youyouzi	0
+華霊「バタフライディルージョン」	youyouzi	0
+幽曲「リポジトリ・オブ・ヒロカワ -偽霊-」	youyouzi	0
+幽曲「リポジトリ・オブ・ヒロカワ -亡霊-」	youyouzi	0
+幽曲「リポジトリ・オブ・ヒロカワ -幻霊-」	youyouzi	0
+幽曲「リポジトリ・オブ・ヒロカワ -神霊-」	youyouzi	0
+桜符「完全なる墨染の桜 -封印-」	youyouzi	0
+桜符「完全なる墨染の桜 -亡我-」	youyouzi	0
+桜符「完全なる墨染の桜 -春眠-」	youyouzi	0
+桜符「完全なる墨染の桜 -開花-」	youyouzi	0
+「反魂蝶 -一分咲-」	youyouzi	0
+「反魂蝶 -参分咲-」	youyouzi	0
+「反魂蝶 -伍分咲-」	youyouzi	0
+「反魂蝶 -八分咲-」	youyouzi	0
+鬼符「青鬼赤鬼」	cheng	0
+鬼神「飛翔毘沙門天」	cheng	0
+式神「仙狐思念」	lan	0
+式神「十二神将の宴」	lan	0
+式輝「狐狸妖怪レーザー」	lan	0
+式輝「四面楚歌チャーミング」	lan	0
+式輝「プリンセス天狐　-Illusion-」	lan	0
+式弾「アルティメットブディスト」	lan	0
+式弾「ユーニラタルコンタクト」	lan	0
+式神「橙」	lan	0
+「狐狗狸さんの契約」	lan	0
+幻神「飯綱権現降臨」	lan	0
+式神「前鬼後鬼の守護」	lan	0
+式神「憑依荼吉尼天」	lan	0
+結界「夢と現の呪」	zi	0
+結界「動と静の均衡」	zi	0
+結界「光と闇の網目」	zi	0
+罔両「ストレートとカーブの夢郷」	zi	0
+罔両「八雲紫の神隠し」	zi	0
+罔両「禅寺に棲む妖蝶」	zi	0
+魍魎「二重黒死蝶」	zi	0
+式神「八雲藍」	zi	0
+「人間と妖怪の境界」	zi	0
+結界「生と死の境界」	zi	0
+紫奥義「弾幕結界」	zi	0
+蛍符「地上の流星」	ligelu	0
+蛍符「地上の彗星」	ligelu	0
+灯符「ファイヤフライフェノメノン」	ligelu	0
+蠢符「リトルバグ」	ligelu	0
+蠢符「リトルバグストーム」	ligelu	0
+蠢符「ナイトバグストーム」	ligelu	0
+蠢符「ナイトバグトルネード」	ligelu	0
+隠蟲「永夜蟄居」	ligelu	0
+声符「梟の夜鳴声」	misidiya	0
+声符「木菟咆哮」	misidiya	0
+蛾符「天蛾の蠱道」	misidiya	0
+毒符「毒蛾の鱗粉」	misidiya	0
+猛毒「毒蛾の暗闇演舞」	misidiya	0
+鷹符「イルスタードダイブ」	misidiya	0
+夜盲「夜雀の歌」	misidiya	0
+夜雀「真夜中のコーラスマスター」	misidiya	0
+産霊「ファーストピラミッド」	huiyin	0
+始符「エフェメラリティ137」	huiyin	0
+野符「武烈クライシス」	huiyin	0
+野符「将門クライシス」	huiyin	0
+野符「義満クライシス」	huiyin	0
+野符「GHQクライシス」	huiyin	0
+国符「三種の神器　剣」	huiyin	0
+国符「三種の神器　玉」	huiyin	0
+国符「三種の神器　鏡」	huiyin	0
+国体「三種の神器　郷」	huiyin	0
+終符「幻想天皇」	huiyin	0
+虚史「幻想郷伝説」	huiyin	0
+未来「高天原」	huiyin	0
+夢符「二重結界」	lingmeng	0
+夢境「二重大結界」	lingmeng	0
+霊符「夢想封印　散」	lingmeng	0
+散霊「夢想封印　寂」	lingmeng	0
+夢符「封魔陣」	lingmeng	0
+神技「八方鬼縛陣」	lingmeng	0
+神技「八方龍殺陣」	lingmeng	0
+霊符「夢想封印　集」	lingmeng	0
+回霊「夢想封印　侘」	lingmeng	0
+境界「二重弾幕結界」	lingmeng	0
+大結界「博麗弾幕結界」	lingmeng	0
+神霊「夢想封印　瞬」	lingmeng	0
+魔符「ミルキーウェイ」	molisha	0
+魔空「アステロイドベルト」	molisha	0
+魔符「スターダストレヴァリエ」	molisha	0
+黒魔「イベントホライズン」	molisha	0
+恋符「ノンディレクショナルレーザー」	molisha	0
+恋風「スターライトタイフーン」	molisha	0
+恋符「マスタースパーク」	molisha	0
+恋心「ダブルスパーク」	molisha	0
+光符「アースライトレイ」	molisha	0
+光撃「シュート・ザ・ムーン」	molisha	0
+魔砲「ファイナルスパーク」	molisha	0
+魔砲「ファイナルマスタースパーク」	molisha	0
+波符「赤眼催眠(マインドシェイカー)」	lingxian	0
+幻波「赤眼催眠(マインドブローイング)」	lingxian	0
+狂符「幻視調律(ビジョナリチューニング)」	lingxian	0
+狂視「狂視調律(イリュージョンシーカー)」	lingxian	0
+懶符「生神停止(アイドリングウェーブ)」	lingxian	0
+懶惰「生神停止(マインドストッパー)」	lingxian	0
+散符「真実の月(インビジブルフルムーン)」	lingxian	0
+月眼「月兎遠隔催眠術(テレメスメリズム)」	lingxian	0
+天丸「壺中の天地」	yonglin	0
+覚神「神代の記憶」	yonglin	0
+神符「天人の系譜」	yonglin	0
+蘇活「生命遊戯　-ライフゲーム-」	yonglin	0
+蘇生「ライジングゲーム」	yonglin	0
+操神「オモイカネディバイス」	yonglin	0
+神脳「オモイカネブレイン」	yonglin	0
+天呪「アポロ１３」	yonglin	0
+秘術「天文密葬法」	yonglin	0
+禁薬「蓬莱の薬」	yonglin	0
+薬符「壺中の大銀河」	yonglin	0
+難題「龍の頸の玉 -五色の弾丸-」	huiye	0
+神宝「ブリリアントドラゴンバレッタ」	huiye	0
+難題「仏の御石の鉢 -砕けぬ意思-」	huiye	0
+神宝「ブディストダイアモンド」	huiye	0
+難題「火鼠の皮衣 -焦れぬ心-」	huiye	0
+神宝「サラマンダーシールド」	huiye	0
+難題「燕の子安貝 -永命線-」	huiye	0
+神宝「ライフスプリングインフィニティ」	huiye	0
+難題「蓬莱の弾の枝 -虹色の弾幕-」	huiye	0
+神宝「蓬莱の玉の枝 -夢色の郷-」	huiye	0
+「永夜返し -初月-」	huiye	0
+「永夜返し -三日月-」	huiye	0
+「永夜返し -上つ弓張-」	huiye	0
+「永夜返し -待宵-」	huiye	0
+「永夜返し -子の刻-」	huiye	0
+「永夜返し -子の二つ-」	huiye	0
+「永夜返し -子の三つ-」	huiye	0
+「永夜返し -子の四つ-」	huiye	0
+「永夜返し -丑の刻-」	huiye	0
+「永夜返し -丑の二つ-」	huiye	0
+「永夜返し -丑三つ時-」	huiye	0
+「永夜返し -丑の四つ-」	huiye	0
+「永夜返し -寅の刻-」	huiye	0
+「永夜返し -寅の二つ-」	huiye	0
+「永夜返し -寅の三つ-」	huiye	0
+「永夜返し -寅の四つ-」	huiye	0
+「永夜返し -朝靄-」	huiye	0
+「永夜返し -夜明け-」	huiye	0
+「永夜返し -明けの明星-」	huiye	0
+「永夜返し -世明け-」	huiye	0
+旧史「旧秘境史　-オールドヒストリー-」	hiuyin	0
+転世「一条戻り橋」	hiuyin	0
+新史「新幻想史　-ネクストヒストリー-」	hiuyin	0
+時効「月のいはかさの呪い」	meihong	0
+不死「火の鳥　-鳳翼天翔-」	meihong	0
+藤原「滅罪寺院傷」	meihong	0
+不死「徐福時空」	meihong	0
+滅罪「正直者の死」	meihong	0
+虚人「ウー」	meihong	0
+不滅「フェニックスの尾」	meihong	0
+蓬莱「凱風快晴　-フジヤマヴォルケイノ-」	meihong	0
+「パゼストバイフェニックス」	meihong	0
+「蓬莱人形」	meihong	0
+「インペリシャブルシューティング」	meihong	0
+「季節外れのバタフライストーム」	ligelu	0
+「ブラインドナイトバード」	misidiya	0
+「日出づる国の天子」	huiyin	0
+「幻朧月睨(ルナティックレッドアイズ)」	lingxian	0
+「天網蜘網捕蝶の法」	yonglin	0
+「蓬莱の樹海」	huiye	0
+「フェニックス再誕」	meihong	0
+「エンシェントデューパー」	di	0
+「無何有浄化」	huiyin	0
+「夢想天生」	lingmeng	0
+「ブレイジングスター」	molisha	0
+「デフレーションワールド」	xiaoye	0
+「待宵反射衛星斬」	yaomeng	0
+「グランギニョル座の怪人」	ailisi	0
+「スカーレットディスティニー」	leimiliya	0
+「西行寺無余涅槃」	youyouzi	0
+「深弾幕結界　-夢幻泡影-」	zi	0
