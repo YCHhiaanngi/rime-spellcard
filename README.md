@@ -6,6 +6,7 @@
 
 例如：
 紅美鈴 -> meiling
+
 Remilia Scarlet -> leimiliya
 
 注意：
