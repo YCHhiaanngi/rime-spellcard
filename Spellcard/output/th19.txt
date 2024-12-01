@@ -1,0 +1,36 @@
+霊符「乱撃陰陽玉」,Reimu Hakurei
+霊符「蹂躙陰陽玉」,Reimu Hakurei
+「在庫全ての陰陽玉」,Reimu Hakurei
+「鬼畜生調伏に慈悲は無し」,Reimu Hakurei
+星符「シュート・ザ・ビースト」,Marisa Kirisame
+星符「シュート・ザ・ビーストキング」,Marisa Kirisame
+風符「ウィンドライダー」,Sanae Kochiya
+風符「ウィンドマスター」,Sanae Kochiya
+式神「スティルハンター　チェン」,Ran Yakumo
+式神「マルチスティルハンター」,Ran Yakumo
+独楽「コマ犬回し」,Aunn Komano
+独楽「コマ犬大回転」,Aunn Komano
+宝石「ジュエルレイン」,Nazrin
+弾符「ラビットシューティング」,Seiran
+死霊「フェアリーオブザデッド」,Rin Kaenbyou
+管狐「シリンダーフォックス」,Tsukasa Kudamaki
+狸符「強欲な動物霊に紛れよ！」,Mamizou Futatsuiwa
+亀符「亀甲地獄」,Yachie Kicchou
+亀符「吉弔大結界」,Yachie Kicchou
+龍符「龍紋弾」,Yachie Kicchou
+天星馬「ペガサスクロス」,Saki Kurokoma
+天星馬「ペガサススターマイン」,Saki Kurokoma
+「ラストシュート」,Saki Kurokoma
+宿怨「ゴージライザー」,Yuuma Toutetsu
+「アブソーバーファントム」,Yuuma Toutetsu
+「底辺の暴食」,Yuuma Toutetsu
+鬼符「濛々酒鬼」,Suika Ibuki
+鬼符「疎音濛々酒鬼」,Suika Ibuki
+「美しき地獄弾幕夜行」,Suika Ibuki
+猿撃「モンキーマジック」,Biten Son
+三頭「ケルベロスファイア」,Enoko Mitsugashira
+呪血「カースドデビル」,Chiyari Tenkajin
+執行者「脱獄ストーカー」,Hisami Yomotsu
+「純霊弾」,Zanmu Nippaku
+「無心純霊弾」,Zanmu Nippaku
+「亡羊のキングダム」,Zanmu Nippaku

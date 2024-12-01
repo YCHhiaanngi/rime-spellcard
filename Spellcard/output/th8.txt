@@ -1,0 +1,222 @@
+蛍符「地上の流星」,Wriggle Nightbug
+蛍符「地上の彗星」,Wriggle Nightbug
+灯符「ファイヤフライフェノメノン」,Wriggle Nightbug
+灯符「ファイヤフライフェノメノン」,Wriggle Nightbug
+灯符「ファイヤフライフェノメノン」,Wriggle Nightbug
+灯符「ファイヤフライフェノメノン」,Wriggle Nightbug
+蠢符「リトルバグ」,Wriggle Nightbug
+蠢符「リトルバグストーム」,Wriggle Nightbug
+蠢符「ナイトバグストーム」,Wriggle Nightbug
+蠢符「ナイトバグトルネード」,Wriggle Nightbug
+隠蟲「永夜蟄居」,Wriggle Nightbug
+隠蟲「永夜蟄居」,Wriggle Nightbug
+隠蟲「永夜蟄居」,Wriggle Nightbug
+声符「梟の夜鳴声」,Mystia Lorelei
+声符「梟の夜鳴声」,Mystia Lorelei
+声符「木菟咆哮」,Mystia Lorelei
+声符「木菟咆哮」,Mystia Lorelei
+蛾符「天蛾の蠱道」,Mystia Lorelei
+蛾符「天蛾の蠱道」,Mystia Lorelei
+毒符「毒蛾の鱗粉」,Mystia Lorelei
+猛毒「毒蛾の暗闇演舞」,Mystia Lorelei
+鷹符「イルスタードダイブ」,Mystia Lorelei
+鷹符「イルスタードダイブ」,Mystia Lorelei
+鷹符「イルスタードダイブ」,Mystia Lorelei
+鷹符「イルスタードダイブ」,Mystia Lorelei
+夜盲「夜雀の歌」,Mystia Lorelei
+夜盲「夜雀の歌」,Mystia Lorelei
+夜盲「夜雀の歌」,Mystia Lorelei
+夜盲「夜雀の歌」,Mystia Lorelei
+夜雀「真夜中のコーラスマスター」,Mystia Lorelei
+夜雀「真夜中のコーラスマスター」,Mystia Lorelei
+夜雀「真夜中のコーラスマスター」,Mystia Lorelei
+産霊「ファーストピラミッド」,Keine Kamishirasawa
+産霊「ファーストピラミッド」,Keine Kamishirasawa
+産霊「ファーストピラミッド」,Keine Kamishirasawa
+産霊「ファーストピラミッド」,Keine Kamishirasawa
+始符「エフェメラリティ137」,Keine Kamishirasawa
+始符「エフェメラリティ137」,Keine Kamishirasawa
+始符「エフェメラリティ137」,Keine Kamishirasawa
+野符「武烈クライシス」,Keine Kamishirasawa
+野符「将門クライシス」,Keine Kamishirasawa
+野符「義満クライシス」,Keine Kamishirasawa
+野符「GHQクライシス」,Keine Kamishirasawa
+国符「三種の神器　剣」,Keine Kamishirasawa
+国符「三種の神器　玉」,Keine Kamishirasawa
+国符「三種の神器　鏡」,Keine Kamishirasawa
+国体「三種の神器　郷」,Keine Kamishirasawa
+終符「幻想天皇」,Keine Kamishirasawa
+終符「幻想天皇」,Keine Kamishirasawa
+虚史「幻想郷伝説」,Keine Kamishirasawa
+虚史「幻想郷伝説」,Keine Kamishirasawa
+未来「高天原」,Keine Kamishirasawa
+未来「高天原」,Keine Kamishirasawa
+未来「高天原」,Keine Kamishirasawa
+夢符「二重結界」,Reimu Hakurei
+夢符「二重結界」,Reimu Hakurei
+夢境「二重大結界」,Reimu Hakurei
+夢境「二重大結界」,Reimu Hakurei
+霊符「夢想封印　散」,Reimu Hakurei
+霊符「夢想封印　散」,Reimu Hakurei
+散霊「夢想封印　寂」,Reimu Hakurei
+散霊「夢想封印　寂」,Reimu Hakurei
+夢符「封魔陣」,Reimu Hakurei
+夢符「封魔陣」,Reimu Hakurei
+神技「八方鬼縛陣」,Reimu Hakurei
+神技「八方龍殺陣」,Reimu Hakurei
+霊符「夢想封印　集」,Reimu Hakurei
+霊符「夢想封印　集」,Reimu Hakurei
+回霊「夢想封印　侘」,Reimu Hakurei
+回霊「夢想封印　侘」,Reimu Hakurei
+境界「二重弾幕結界」,Reimu Hakurei
+境界「二重弾幕結界」,Reimu Hakurei
+大結界「博麗弾幕結界」,Reimu Hakurei
+大結界「博麗弾幕結界」,Reimu Hakurei
+神霊「夢想封印　瞬」,Reimu Hakurei
+神霊「夢想封印　瞬」,Reimu Hakurei
+神霊「夢想封印　瞬」,Reimu Hakurei
+魔符「ミルキーウェイ」,Marisa Kirisame
+魔符「ミルキーウェイ」,Marisa Kirisame
+魔空「アステロイドベルト」,Marisa Kirisame
+魔空「アステロイドベルト」,Marisa Kirisame
+魔符「スターダストレヴァリエ」,Marisa Kirisame
+魔符「スターダストレヴァリエ」,Marisa Kirisame
+黒魔「イベントホライズン」,Marisa Kirisame
+黒魔「イベントホライズン」,Marisa Kirisame
+恋符「ノンディレクショナルレーザー」,Marisa Kirisame
+恋符「ノンディレクショナルレーザー」,Marisa Kirisame
+恋風「スターライトタイフーン」,Marisa Kirisame
+恋風「スターライトタイフーン」,Marisa Kirisame
+恋符「マスタースパーク」,Marisa Kirisame
+恋符「マスタースパーク」,Marisa Kirisame
+恋心「ダブルスパーク」,Marisa Kirisame
+恋心「ダブルスパーク」,Marisa Kirisame
+光符「アースライトレイ」,Marisa Kirisame
+光符「アースライトレイ」,Marisa Kirisame
+光撃「シュート・ザ・ムーン」,Marisa Kirisame
+光撃「シュート・ザ・ムーン」,Marisa Kirisame
+魔砲「ファイナルスパーク」,Marisa Kirisame
+魔砲「ファイナルスパーク」,Marisa Kirisame
+魔砲「ファイナルマスタースパーク」,Marisa Kirisame
+波符「赤眼催眠(マインドシェイカー)」,Reisen Udongein Inaba
+波符「赤眼催眠(マインドシェイカー)」,Reisen Udongein Inaba
+幻波「赤眼催眠(マインドブローイング)」,Reisen Udongein Inaba
+幻波「赤眼催眠(マインドブローイング)」,Reisen Udongein Inaba
+狂符「幻視調律(ビジョナリチューニング)」,Reisen Udongein Inaba
+狂符「幻視調律(ビジョナリチューニング)」,Reisen Udongein Inaba
+狂視「狂視調律(イリュージョンシーカー)」,Reisen Udongein Inaba
+狂視「狂視調律(イリュージョンシーカー)」,Reisen Udongein Inaba
+懶符「生神停止(アイドリングウェーブ)」,Reisen Udongein Inaba
+懶符「生神停止(アイドリングウェーブ)」,Reisen Udongein Inaba
+懶惰「生神停止(マインドストッパー)」,Reisen Udongein Inaba
+懶惰「生神停止(マインドストッパー)」,Reisen Udongein Inaba
+散符「真実の月(インビジブルフルムーン)」,Reisen Udongein Inaba
+散符「真実の月(インビジブルフルムーン)」,Reisen Udongein Inaba
+散符「真実の月(インビジブルフルムーン)」,Reisen Udongein Inaba
+散符「真実の月(インビジブルフルムーン)」,Reisen Udongein Inaba
+月眼「月兎遠隔催眠術(テレメスメリズム)」,Reisen Udongein Inaba
+月眼「月兎遠隔催眠術(テレメスメリズム)」,Reisen Udongein Inaba
+月眼「月兎遠隔催眠術(テレメスメリズム)」,Reisen Udongein Inaba
+天丸「壺中の天地」,Eirin Yagokoro
+天丸「壺中の天地」,Eirin Yagokoro
+天丸「壺中の天地」,Eirin Yagokoro
+天丸「壺中の天地」,Eirin Yagokoro
+覚神「神代の記憶」,Eirin Yagokoro
+覚神「神代の記憶」,Eirin Yagokoro
+神符「天人の系譜」,Eirin Yagokoro
+神符「天人の系譜」,Eirin Yagokoro
+蘇活「生命遊戯　-ライフゲーム-」,Eirin Yagokoro
+蘇活「生命遊戯　-ライフゲーム-」,Eirin Yagokoro
+蘇生「ライジングゲーム」,Eirin Yagokoro
+蘇生「ライジングゲーム」,Eirin Yagokoro
+操神「オモイカネディバイス」,Eirin Yagokoro
+操神「オモイカネディバイス」,Eirin Yagokoro
+神脳「オモイカネブレイン」,Eirin Yagokoro
+神脳「オモイカネブレイン」,Eirin Yagokoro
+天呪「アポロ１３」,Eirin Yagokoro
+天呪「アポロ１３」,Eirin Yagokoro
+天呪「アポロ１３」,Eirin Yagokoro
+天呪「アポロ１３」,Eirin Yagokoro
+秘術「天文密葬法」,Eirin Yagokoro
+秘術「天文密葬法」,Eirin Yagokoro
+秘術「天文密葬法」,Eirin Yagokoro
+秘術「天文密葬法」,Eirin Yagokoro
+禁薬「蓬莱の薬」,Eirin Yagokoro
+禁薬「蓬莱の薬」,Eirin Yagokoro
+禁薬「蓬莱の薬」,Eirin Yagokoro
+禁薬「蓬莱の薬」,Eirin Yagokoro
+薬符「壺中の大銀河」,Eirin Yagokoro
+薬符「壺中の大銀河」,Eirin Yagokoro
+薬符「壺中の大銀河」,Eirin Yagokoro
+薬符「壺中の大銀河」,Eirin Yagokoro
+難題「龍の頸の玉 -五色の弾丸-」,Kaguya Houraisan
+難題「龍の頸の玉 -五色の弾丸-」,Kaguya Houraisan
+神宝「ブリリアントドラゴンバレッタ」,Kaguya Houraisan
+神宝「ブリリアントドラゴンバレッタ」,Kaguya Houraisan
+難題「仏の御石の鉢 -砕けぬ意思-」,Kaguya Houraisan
+難題「仏の御石の鉢 -砕けぬ意思-」,Kaguya Houraisan
+神宝「ブディストダイアモンド」,Kaguya Houraisan
+神宝「ブディストダイアモンド」,Kaguya Houraisan
+難題「火鼠の皮衣 -焦れぬ心-」,Kaguya Houraisan
+難題「火鼠の皮衣 -焦れぬ心-」,Kaguya Houraisan
+神宝「サラマンダーシールド」,Kaguya Houraisan
+神宝「サラマンダーシールド」,Kaguya Houraisan
+難題「燕の子安貝 -永命線-」,Kaguya Houraisan
+難題「燕の子安貝 -永命線-」,Kaguya Houraisan
+神宝「ライフスプリングインフィニティ」,Kaguya Houraisan
+神宝「ライフスプリングインフィニティ」,Kaguya Houraisan
+難題「蓬莱の弾の枝 -虹色の弾幕-」,Kaguya Houraisan
+難題「蓬莱の弾の枝 -虹色の弾幕-」,Kaguya Houraisan
+神宝「蓬莱の玉の枝 -夢色の郷-」,Kaguya Houraisan
+神宝「蓬莱の玉の枝 -夢色の郷-」,Kaguya Houraisan
+「永夜返し -初月-」,Kaguya Houraisan
+「永夜返し -三日月-」,Kaguya Houraisan
+「永夜返し -上つ弓張-」,Kaguya Houraisan
+「永夜返し -待宵-」,Kaguya Houraisan
+「永夜返し -子の刻-」,Kaguya Houraisan
+「永夜返し -子の二つ-」,Kaguya Houraisan
+「永夜返し -子の三つ-」,Kaguya Houraisan
+「永夜返し -子の四つ-」,Kaguya Houraisan
+「永夜返し -丑の刻-」,Kaguya Houraisan
+「永夜返し -丑の二つ-」,Kaguya Houraisan
+「永夜返し -丑三つ時-」,Kaguya Houraisan
+「永夜返し -丑の四つ-」,Kaguya Houraisan
+「永夜返し -寅の刻-」,Kaguya Houraisan
+「永夜返し -寅の二つ-」,Kaguya Houraisan
+「永夜返し -寅の三つ-」,Kaguya Houraisan
+「永夜返し -寅の四つ-」,Kaguya Houraisan
+「永夜返し -朝靄-」,Kaguya Houraisan
+「永夜返し -夜明け-」,Kaguya Houraisan
+「永夜返し -明けの明星-」,Kaguya Houraisan
+「永夜返し -世明け-」,Kaguya Houraisan
+旧史「旧秘境史　-オールドヒストリー-」,Keine Kamishirasawa
+転世「一条戻り橋」,Keine Kamishirasawa
+新史「新幻想史　-ネクストヒストリー-」,Keine Kamishirasawa
+時効「月のいはかさの呪い」,Fujiwara no Mokou
+不死「火の鳥　-鳳翼天翔-」,Fujiwara no Mokou
+藤原「滅罪寺院傷」,Fujiwara no Mokou
+不死「徐福時空」,Fujiwara no Mokou
+滅罪「正直者の死」,Fujiwara no Mokou
+虚人「ウー」,Fujiwara no Mokou
+不滅「フェニックスの尾」,Fujiwara no Mokou
+蓬莱「凱風快晴　-フジヤマヴォルケイノ-」,Fujiwara no Mokou
+「パゼストバイフェニックス」,Fujiwara no Mokou
+「蓬莱人形」,Fujiwara no Mokou
+「インペリシャブルシューティング」,Fujiwara no Mokou
+「季節外れのバタフライストーム」,Wriggle Nightbug
+「ブラインドナイトバード」,Mystia Lorelei
+「日出づる国の天子」,Keine Kamishirasawa
+「幻朧月睨(ルナティックレッドアイズ)」,Reisen Udongein Inaba
+「天網蜘網捕蝶の法」,Eirin Yagokoro
+「蓬莱の樹海」,Kaguya Houraisan
+「フェニックス再誕」,Fujiwara no Mokou
+「エンシェントデューパー」,Tewi Inaba
+「無何有浄化」,Keine Kamishirasawa
+「夢想天生」,Reimu Hakurei
+「ブレイジングスター」,Marisa Kirisame
+「デフレーションワールド」,Sakuya Izayoi
+「待宵反射衛星斬」,Youmu Konpaku
+「グランギニョル座の怪人」,Alice Margatroid
+「スカーレットディスティニー」,Remilia Scarlet
+「西行寺無余涅槃」,Yuyuko Saigyouji
+「深弾幕結界　-夢幻泡影-」,Yukari Yakumo

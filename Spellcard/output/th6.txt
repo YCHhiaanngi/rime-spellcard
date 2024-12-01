@@ -1,0 +1,64 @@
+月符「ムーンライトレイ」,Rumia
+夜符「ナイトバード」,Rumia
+闇符「ディマーケイション」,Rumia
+氷符「アイシクルフォール」,Cirno
+雹符「ヘイルストーム」,Cirno
+凍符「パーフェクトフリーズ」,Cirno
+雪符「ダイアモンドブリザード」,Cirno
+華符「芳華絢爛」,Hong Meiling
+華符「セラギネラ９」,Hong Meiling
+虹符「彩虹の風鈴」,Hong Meiling
+幻符「華想夢葛」,Hong Meiling
+彩符「彩雨」,Hong Meiling
+彩符「彩光乱舞」,Hong Meiling
+彩符「極彩颱風」,Hong Meiling
+火符「アグニシャイン」,Patchouli Knowledge
+水符「プリンセスウンディネ」,Patchouli Knowledge
+木符「シルフィホルン」,Patchouli Knowledge
+土符「レイジィトリリトン」,Patchouli Knowledge
+金符「メタルファティーグ」,Patchouli Knowledge
+火符「アグニシャイン上級」,Patchouli Knowledge
+木符「シルフィホルン上級」,Patchouli Knowledge
+土符「レイジィトリリトン上級」,Patchouli Knowledge
+火符「アグニレイディアンス」,Patchouli Knowledge
+水符「ベリーインレイク」,Patchouli Knowledge
+木符「グリーンストーム」,Patchouli Knowledge
+土符「トリリトンシェイク」,Patchouli Knowledge
+金符「シルバードラゴン」,Patchouli Knowledge
+火＆土符「ラーヴァクロムレク」,Patchouli Knowledge
+木＆火符「フォレストブレイズ」,Patchouli Knowledge
+水＆木符「ウォーターエルフ」,Patchouli Knowledge
+金＆水符「マーキュリポイズン」,Patchouli Knowledge
+土＆金符「エメラルドメガリス」,Patchouli Knowledge
+奇術「ミスディレクション」,Sakuya Izayoi
+奇術「幻惑ミスディレクション」,Sakuya Izayoi
+幻在「クロックコープス」,Sakuya Izayoi
+幻象「ルナクロック」,Sakuya Izayoi
+メイド秘技「操りドール」,Sakuya Izayoi
+幻幽「ジャック・ザ・ルドビレ」,Sakuya Izayoi
+幻世「ザ・ワールド」,Sakuya Izayoi
+メイド秘技「殺人ドール」,Sakuya Izayoi
+奇術「エターナルミーク」,Sakuya Izayoi
+天罰「スターオブダビデ」,Remilia Scarlet
+冥符「紅色の冥界」,Remilia Scarlet
+呪詛「ブラド・ツェペシュの呪い」,Remilia Scarlet
+紅符「スカーレットシュート」,Remilia Scarlet
+「レッドマジック」,Remilia Scarlet
+神罰「幼きデーモンロード」,Remilia Scarlet
+獄符「千本の針の山」,Remilia Scarlet
+神術「吸血鬼幻想」,Remilia Scarlet
+紅符「スカーレットマイスタ」,Remilia Scarlet
+「紅色の幻想郷」,Remilia Scarlet
+月符「サイレントセレナ」,Patchouli Knowledge
+日符「ロイヤルフレア」,Patchouli Knowledge
+火水木金土符「賢者の石」,Patchouli Knowledge
+禁忌「クランベリートラップ」,Flandre Scarlet
+禁忌「レーヴァテイン」,Flandre Scarlet
+禁忌「フォーオブアカインド」,Flandre Scarlet
+禁忌「カゴメカゴメ」,Flandre Scarlet
+禁忌「恋の迷路」,Flandre Scarlet
+禁弾「スターボウブレイク」,Flandre Scarlet
+禁弾「カタディオプトリック」,Flandre Scarlet
+禁弾「過去を刻む時計」,Flandre Scarlet
+秘弾「そして誰もいなくなるか？」,Flandre Scarlet
+ＱＥＤ「４９５年の波紋」,Flandre Scarlet

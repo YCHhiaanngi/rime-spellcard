@@ -1,0 +1,68 @@
+符牒「死蝶の舞」,Yuyuko Saigyouji
+符牒「死蝶の舞　- 桜花 -」,Yuyuko Saigyouji
+幽蝶「ゴーストスポット」,Yuyuko Saigyouji
+幽蝶「ゴーストスポット　- 桜花 -」,Yuyuko Saigyouji
+冥符「常夜桜」,Yuyuko Saigyouji
+桜符「西行桜吹雪」,Yuyuko Saigyouji
+響符「マウンテンエコー」,Kyouko Kasodani
+響符「マウンテンエコースクランブル」,Kyouko Kasodani
+響符「パワーレゾナンス」,Kyouko Kasodani
+山彦「ロングレンジエコー」,Kyouko Kasodani
+山彦「アンプリファイエコー」,Kyouko Kasodani
+大声「チャージドクライ」,Kyouko Kasodani
+大声「チャージドヤッホー」,Kyouko Kasodani
+虹符「アンブレラサイクロン」,Kogasa Tatara
+回復「ヒールバイデザイア」,Yoshika Miyako
+毒爪「ポイズンレイズ」,Yoshika Miyako
+毒爪「ポイズンマーダー」,Yoshika Miyako
+欲符「稼欲霊招来」,Yoshika Miyako
+欲霊「スコアデザイアイーター」,Yoshika Miyako
+邪符「ヤンシャオグイ」,Seiga Kaku
+邪符「グーフンイエグイ」,Seiga Kaku
+入魔「ゾウフォルゥモォ」,Seiga Kaku
+降霊「死人タンキー」,Seiga Kaku
+通霊「トンリン芳香」,Seiga Kaku
+道符「タオ胎動」,Seiga Kaku
+雷矢「ガゴウジサイクロン」,Soga no Tojiko
+雷矢「ガゴウジサイクロン」,Soga no Tojiko
+雷矢「ガゴウジトルネード」,Soga no Tojiko
+天符「雨の磐舟」,Mononobe no Futo
+天符「天の磐舟よ天へ昇れ」,Mononobe no Futo
+投皿「物部の八十平瓮」,Mononobe no Futo
+炎符「廃仏の炎風」,Mononobe no Futo
+炎符「桜井寺炎上」,Mononobe no Futo
+聖童女「大物忌正餐」,Mononobe no Futo
+名誉「十二階の色彩」,Toyosatomimi no Miko
+名誉「十二階の冠位」,Toyosatomimi no Miko
+仙符「日出ずる処の道士」,Toyosatomimi no Miko
+仙符「日出ずる処の天子」,Toyosatomimi no Miko
+召喚「豪族乱舞」,Toyosatomimi no Miko
+秘宝「斑鳩寺の天球儀」,Toyosatomimi no Miko
+秘宝「聖徳太子のオーパーツ」,Toyosatomimi no Miko
+光符「救世観音の光後光」,Toyosatomimi no Miko
+光符「グセフラッシュ」,Toyosatomimi no Miko
+眼光「十七条のレーザー」,Toyosatomimi no Miko
+神光「逆らう事なきを宗とせよ」,Toyosatomimi no Miko
+「星降る神霊廟」,Toyosatomimi no Miko
+「生まれたての神霊」,Toyosatomimi no Miko
+アンノウン「軌道不明の鬼火」,Nue Houjuu
+アンノウン「姿態不明の空魚」,Nue Houjuu
+アンノウン「原理不明の妖怪玉」,Nue Houjuu
+壱番勝負「霊長化弾幕変化」,Mamizou Futatsuiwa
+弐番勝負「肉食化弾幕変化」,Mamizou Futatsuiwa
+参番勝負「延羽化弾幕変化」,Mamizou Futatsuiwa
+四番勝負「両生化弾幕変化」,Mamizou Futatsuiwa
+伍番勝負「鳥獣戯画」,Mamizou Futatsuiwa
+六番勝負「狸の化け学校」,Mamizou Futatsuiwa
+七番勝負「野生の離島」,Mamizou Futatsuiwa
+変化「まぬけ巫女の偽調伏」,Mamizou Futatsuiwa
+「マミゾウ化弾幕十変化」,Mamizou Futatsuiwa
+狢符「満月のポンポコリン」,Mamizou Futatsuiwa
+桜符「桜吹雪地獄」,Yuyuko Saigyouji
+山彦「ヤマビコの本領発揮エコー」,Kyouko Kasodani
+毒爪「死なない殺人鬼」,Yoshika Miyako
+道符「ＴＡＯ胎動　〜道〜」,Seiga Kaku
+怨霊「入鹿の雷」,Soga no Tojiko
+聖童女「太陽神の贄」,Mononobe no Futo
+「神霊大宇宙」,Toyosatomimi no Miko
+「ワイルドカーペット」,Mamizou Futatsuiwa

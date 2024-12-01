@@ -1,0 +1,61 @@
+氷符「アルティメットブリザード」,Cirno
+水符「テイルフィンスラップ」,Wakasagihime
+鱗符「スケールウェイブ」,Wakasagihime
+鱗符「逆鱗の荒波」,Wakasagihime
+鱗符「逆鱗の大荒波」,Wakasagihime
+飛符「フライングヘッド」,Sekibanki
+首符「クローズアイショット」,Sekibanki
+首符「ろくろ首飛来」,Sekibanki
+飛頭「マルチプリケイティブヘッド」,Sekibanki
+飛頭「セブンズヘッド」,Sekibanki
+飛頭「ナインズヘッド」,Sekibanki
+飛頭「デュラハンナイト」,Sekibanki
+牙符「月下の犬歯」,Kagerou Imaizumi
+変身「トライアングルファング」,Kagerou Imaizumi
+変身「スターファング」,Kagerou Imaizumi
+咆哮「ストレンジロア」,Kagerou Imaizumi
+咆哮「満月の遠吠え」,Kagerou Imaizumi
+狼符「スターリングパウンス」,Kagerou Imaizumi
+天狼「ハイスピードパウンス」,Kagerou Imaizumi
+平曲「祇園精舎の鐘の音」,Benben Tsukumo
+怨霊「耳無し芳一」,Benben Tsukumo
+怨霊「平家の大怨霊」,Benben Tsukumo
+楽符「邪悪な五線譜」,Benben Tsukumo
+楽符「凶悪な五線譜」,Benben Tsukumo
+楽符「ダブルスコア」,Benben Tsukumo
+琴符「諸行無常の琴の音」,Yatsuhashi Tsukumo
+響符「平安の残響」,Yatsuhashi Tsukumo
+響符「エコーチェンバー」,Yatsuhashi Tsukumo
+箏曲「下克上送箏曲」,Yatsuhashi Tsukumo
+箏曲「下克上レクイエム」,Yatsuhashi Tsukumo
+欺符「逆針撃」,Seija Kijin
+逆符「鏡の国の弾幕」,Seija Kijin
+逆符「イビルインザミラー」,Seija Kijin
+逆符「天地有用」,Seija Kijin
+逆符「天下転覆」,Seija Kijin
+逆弓「天壌夢弓」,Seija Kijin
+逆弓「天壌夢弓の詔勅」,Seija Kijin
+逆転「リバースヒエラルキー」,Seija Kijin
+逆転「チェンジエアブレイブ」,Seija Kijin
+小弾「小人の道」,Shinmyoumaru Sukuna
+小弾「小人の茨道」,Shinmyoumaru Sukuna
+小槌「大きくなあれ」,Shinmyoumaru Sukuna
+小槌「もっと大きくなあれ」,Shinmyoumaru Sukuna
+妖剣「輝針剣」,Shinmyoumaru Sukuna
+小槌「お前が大きくなあれ」,Shinmyoumaru Sukuna
+「進撃の小人」,Shinmyoumaru Sukuna
+「ウォールオブイッスン」,Shinmyoumaru Sukuna
+「ホップオマイサムセブン」,Shinmyoumaru Sukuna
+「七人の一寸法師」,Shinmyoumaru Sukuna
+弦楽「嵐のアンサンブル」,Tsukumo Sisters
+弦楽「浄瑠璃世界」,Tsukumo Sisters
+一鼓「暴れ宮太鼓」,Raiko Horikawa
+二鼓「怨霊アヤノツヅミ」,Raiko Horikawa
+三鼓「午前零時のスリーストライク」,Raiko Horikawa
+死鼓「ランドパーカス」,Raiko Horikawa
+五鼓「デンデン太鼓」,Raiko Horikawa
+六鼓「オルタネイトスティッキング」,Raiko Horikawa
+七鼓「高速和太鼓ロケット」,Raiko Horikawa
+八鼓「雷神の怒り」,Raiko Horikawa
+「ブルーレディショー」,Raiko Horikawa
+「プリスティンビート」,Raiko Horikawa

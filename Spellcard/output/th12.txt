@@ -1,0 +1,80 @@
+棒符「ビジーロッド」,Nazrin
+捜符「レアメタルディテクター」,Nazrin
+捜符「ゴールドディテクター」,Nazrin
+視符「ナズーリンペンデュラム」,Nazrin
+視符「高感度ナズーリンペンデュラム」,Nazrin
+守符「ペンデュラムガード」,Nazrin
+大輪「からかさ後光」,Kogasa Tatara
+大輪「ハロウフォゴットンワールド」,Kogasa Tatara
+傘符「パラソルスターシンフォニー」,Kogasa Tatara
+傘符「パラソルスターメモリーズ」,Kogasa Tatara
+雨符「雨夜の怪談」,Kogasa Tatara
+雨傘「超撥水かさかさお化け」,Kogasa Tatara
+化符「忘れ傘の夜行列車」,Kogasa Tatara
+化鉄「置き傘特急ナイトカーニバル」,Kogasa Tatara
+鉄拳「問答無用の妖怪拳」,Ichirin Kumoi
+神拳「雲上地獄突き」,Ichirin Kumoi
+神拳「天海地獄突き」,Ichirin Kumoi
+拳符「天網サンドバッグ」,Ichirin Kumoi
+連打「雲界クラーケン殴り」,Ichirin Kumoi
+連打「キングクラーケン殴り」,Ichirin Kumoi
+拳打「げんこつスマッシュ」,Ichirin Kumoi
+潰滅「天上天下連続フック」,Ichirin Kumoi
+大喝「時代親父大目玉」,Ichirin Kumoi
+忿怒「天変大目玉焼き」,Ichirin Kumoi
+忿怒「空前絶後大目玉焼き」,Ichirin Kumoi
+転覆「道連れアンカー」,Minamitsu Murasa
+転覆「沈没アンカー」,Minamitsu Murasa
+転覆「撃沈アンカー」,Minamitsu Murasa
+溺符「ディープヴォーテックス」,Minamitsu Murasa
+溺符「シンカブルヴォーテックス」,Minamitsu Murasa
+湊符「ファントムシップハーバー」,Minamitsu Murasa
+湊符「幽霊船の港」,Minamitsu Murasa
+湊符「幽霊船永久停泊」,Minamitsu Murasa
+幽霊「シンカーゴースト」,Minamitsu Murasa
+幽霊「忍び寄る柄杓」,Minamitsu Murasa
+幽霊「忍び寄る柄杓」,Minamitsu Murasa
+宝塔「グレイテストトレジャー」,Nazrin
+宝塔「グレイテストトレジャー」,Nazrin
+宝塔「グレイテストトレジャー」,Nazrin
+宝塔「レイディアントトレジャー」,Shou Toramaru
+宝塔「レイディアントトレジャーガン」,Shou Toramaru
+宝塔「レイディアントトレジャーガン」,Shou Toramaru
+光符「アブソリュートジャスティス」,Shou Toramaru
+光符「正義の威光」,Shou Toramaru
+法力「至宝の独鈷杵」,Shou Toramaru
+法灯「隙間無い法の独鈷杵」,Shou Toramaru
+法灯「隙間無い法の独鈷杵」,Shou Toramaru
+光符「浄化の魔」,Shou Toramaru
+光符「浄化の魔」,Shou Toramaru
+「コンプリートクラリフィケイション」,Shou Toramaru
+魔法「紫雲のオーメン」,Byakuren Hijiri
+吉兆「紫の雲路」,Byakuren Hijiri
+吉兆「極楽の紫の雲路」,Byakuren Hijiri
+魔法「魔界蝶の妖香」,Byakuren Hijiri
+魔法「マジックバタフライ」,Byakuren Hijiri
+光魔「スターメイルシュトロム」,Byakuren Hijiri
+光魔「魔法銀河系」,Byakuren Hijiri
+光魔「魔法銀河系」,Byakuren Hijiri
+大魔法「魔神復誦」,Byakuren Hijiri
+大魔法「魔神復誦」,Byakuren Hijiri
+大魔法「魔神復誦」,Byakuren Hijiri
+「聖尼公のエア巻物」,Byakuren Hijiri
+「聖尼公のエア巻物」,Byakuren Hijiri
+超人「聖白蓮」,Byakuren Hijiri
+飛鉢「フライングファンタスティカ」,Byakuren Hijiri
+飛鉢「伝説の飛空円盤」,Byakuren Hijiri
+飛鉢「伝説の飛空円盤」,Byakuren Hijiri
+傘符「大粒の涙雨」,Kogasa Tatara
+驚雨「ゲリラ台風」,Kogasa Tatara
+後光「からかさ驚きフラッシュ」,Kogasa Tatara
+妖雲「平安のダーククラウド」,Nue Houjuu
+正体不明「忿怒のレッドＵＦＯ襲来」,Nue Houjuu
+鵺符「鵺的スネークショー」,Nue Houjuu
+正体不明「哀愁のブルーＵＦＯ襲来」,Nue Houjuu
+鵺符「弾幕キメラ」,Nue Houjuu
+正体不明「義心のグリーンＵＦＯ襲来」,Nue Houjuu
+鵺符「アンディファインドダークネス」,Nue Houjuu
+正体不明「恐怖の虹色ＵＦＯ襲来」,Nue Houjuu
+「平安京の悪夢」,Nue Houjuu
+恨弓「源三位頼政の弓」,Nue Houjuu

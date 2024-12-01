@@ -1,0 +1,141 @@
+霜符「フロストコラムス」,Cirno
+霜符「フロストコラムス -Lunatic-」,Cirno
+寒符「リンガリングコールド -Easy-」,Letty Whiterock
+寒符「リンガリングコールド」,Letty Whiterock
+寒符「リンガリングコールド -Hard-」,Letty Whiterock
+寒符「リンガリングコールド -Lunatic-」,Letty Whiterock
+冬符「フラワーウィザラウェイ -Easy-」,Letty Whiterock
+冬符「フラワーウィザラウェイ」,Letty Whiterock
+白符「アンデュレイションレイ」,Letty Whiterock
+怪符「テーブルターニング」,Letty Whiterock
+仙符「鳳凰卵 -Easy-」,Chen
+仙符「鳳凰卵」,Chen
+仙符「鳳凰展翅」,Chen
+仙符「鳳凰展翅　-Lunatic-」,Chen
+式符「飛翔晴明 -Easy-」,Chen
+式符「飛翔晴明」,Chen
+陰陽「道満晴明」,Chen
+陰陽「晴明大紋」,Chen
+天符「天仙鳴動 -Easy-」,Chen
+天符「天仙鳴動」,Chen
+翔符「飛翔韋駄天」,Chen
+童符「護法天童乱舞」,Chen
+仙符「屍解永遠 -Easy-」,Chen
+仙符「屍解永遠」,Chen
+鬼符「鬼門金神」,Chen
+方符「奇門遁甲」,Chen
+操符「乙女文楽」,Alice Margatroid
+操符「乙女文楽　-Lunatic-」,Alice Margatroid
+蒼符「博愛の仏蘭西人形 -Easy-」,Alice Margatroid
+蒼符「博愛の仏蘭西人形」,Alice Margatroid
+蒼符「博愛の仏蘭西人形 -Hard-」,Alice Margatroid
+蒼符「博愛のオルレアン人形」,Alice Margatroid
+紅符「紅毛の和蘭人形 -Easy-」,Alice Margatroid
+紅符「紅毛の和蘭人形」,Alice Margatroid
+白符「白亜の露西亜人形」,Alice Margatroid
+白符「白亜の露西亜人形 -Lunatic-」,Alice Margatroid
+闇符「霧の倫敦人形 -Easy-」,Alice Margatroid
+闇符「霧の倫敦人形」,Alice Margatroid
+廻符「輪廻の西蔵人形」,Alice Margatroid
+雅符「春の京人形」,Alice Margatroid
+咒詛「魔彩光の上海人形 -Easy-」,Alice Margatroid
+咒詛「魔彩光の上海人形」,Alice Margatroid
+咒詛「魔彩光の上海人形 -Hard-」,Alice Margatroid
+咒詛「首吊り蓬莱人形」,Alice Margatroid
+騒符「ファントムディニング -Easy-」,Prismriver Sisters
+騒符「ファントムディニング」,Prismriver Sisters
+騒符「ライブポルターガイスト」,Prismriver Sisters
+騒符「ライブポルターガイスト -Lunatic-」,Prismriver Sisters
+弦奏「グァルネリ・デル・ジェス -Easy-」,Lunasa Prismriver
+弦奏「グァルネリ・デル・ジェス」,Lunasa Prismriver
+神弦「ストラディヴァリウス」,Lunasa Prismriver
+偽弦「スードストラディヴァリウス」,Lunasa Prismriver
+管霊「ヒノファンタズム -Easy-」,Merlin Prismriver
+管霊「ヒノファンタズム」,Merlin Prismriver
+冥管「ゴーストクリフォード」,Merlin Prismriver
+管霊「ゴーストクリフォード -Lunatic-」,Merlin Prismriver
+冥鍵「ファツィオーリ冥奏 -Easy-」,Lyrica Prismriver
+冥鍵「ファツィオーリ冥奏」,Lyrica Prismriver
+鍵霊「ベーゼンドルファー神奏」,Lyrica Prismriver
+鍵霊「ベーゼンドルファー神奏 -Lunatic-」,Lyrica Prismriver
+合葬「プリズムコンチェルト -Easy-」,Prismriver Sisters
+合葬「プリズムコンチェルト」,Prismriver Sisters
+騒葬「スティジャンリバーサイド」,Prismriver Sisters
+騒葬「スティジャンリバーサイド -Lunatic-」,Prismriver Sisters
+大合葬「霊車コンチェルトグロッソ -Easy-」,Prismriver Sisters
+大合葬「霊車コンチェルトグロッソ」,Prismriver Sisters
+大合葬「霊車コンチェルトグロッソ改」,Prismriver Sisters
+大合葬「霊車コンチェルトグロッソ怪」,Prismriver Sisters
+幽鬼剣「妖童餓鬼の断食 -Easy-」,Youmu Konpaku
+幽鬼剣「妖童餓鬼の断食」,Youmu Konpaku
+餓鬼剣「餓鬼道草紙」,Youmu Konpaku
+餓王剣「餓鬼十王の報い」,Youmu Konpaku
+獄界剣「二百由旬の一閃 -Easy-」,Youmu Konpaku
+獄界剣「二百由旬の一閃」,Youmu Konpaku
+獄炎剣「業風閃影陣」,Youmu Konpaku
+獄神剣「業風神閃斬」,Youmu Konpaku
+畜趣剣「無為無策の冥罰 -Easy-」,Youmu Konpaku
+畜趣剣「無為無策の冥罰」,Youmu Konpaku
+修羅剣「現世妄執」,Youmu Konpaku
+修羅剣「現世妄執 -Lunatic-」,Youmu Konpaku
+人界剣「悟入幻想 -Easy-」,Youmu Konpaku
+人界剣「悟入幻想」,Youmu Konpaku
+人世剣「大悟顕晦」,Youmu Konpaku
+人神剣「俗諦常住」,Youmu Konpaku
+天上剣「天人の五衰 -Easy-」,Youmu Konpaku
+天上剣「天人の五衰」,Youmu Konpaku
+天界剣「七魄忌諱」,Youmu Konpaku
+天神剣「三魂七魄」,Youmu Konpaku
+六道剣「一念無量劫 -Easy-」,Youmu Konpaku
+六道剣「一念無量劫」,Youmu Konpaku
+六道剣「一念無量劫 -Hard-」,Youmu Konpaku
+六道剣「一念無量劫 -Lunatic-」,Youmu Konpaku
+亡郷「亡我郷 -さまよえる魂-」,Yuyuko Saigyouji
+亡郷「亡我郷 -宿罪-」,Yuyuko Saigyouji
+亡郷「亡我郷 -道無き道-」,Yuyuko Saigyouji
+亡郷「亡我郷 -自尽-」,Yuyuko Saigyouji
+亡舞「生者必滅の理 -眩惑-」,Yuyuko Saigyouji
+亡舞「生者必滅の理 -死蝶-」,Yuyuko Saigyouji
+亡舞「生者必滅の理 -毒蛾-」,Yuyuko Saigyouji
+亡舞「生者必滅の理 -魔境-」,Yuyuko Saigyouji
+華霊「ゴーストバタフライ」,Yuyuko Saigyouji
+華霊「スワローテイルバタフライ」,Yuyuko Saigyouji
+華霊「ディープルーティドバタフライ」,Yuyuko Saigyouji
+華霊「バタフライディルージョン」,Yuyuko Saigyouji
+幽曲「リポジトリ・オブ・ヒロカワ -偽霊-」,Yuyuko Saigyouji
+幽曲「リポジトリ・オブ・ヒロカワ -亡霊-」,Yuyuko Saigyouji
+幽曲「リポジトリ・オブ・ヒロカワ -幻霊-」,Yuyuko Saigyouji
+幽曲「リポジトリ・オブ・ヒロカワ -神霊-」,Yuyuko Saigyouji
+桜符「完全なる墨染の桜 -封印-」,Yuyuko Saigyouji
+桜符「完全なる墨染の桜 -亡我-」,Yuyuko Saigyouji
+桜符「完全なる墨染の桜 -春眠-」,Yuyuko Saigyouji
+桜符「完全なる墨染の桜 -開花-」,Yuyuko Saigyouji
+「反魂蝶 -一分咲-」,Yuyuko Saigyouji
+「反魂蝶 -参分咲-」,Yuyuko Saigyouji
+「反魂蝶 -伍分咲-」,Yuyuko Saigyouji
+「反魂蝶 -八分咲-」,Yuyuko Saigyouji
+鬼符「青鬼赤鬼」,Chen
+鬼神「飛翔毘沙門天」,Chen
+式神「仙狐思念」,Ran Yakumo
+式神「十二神将の宴」,Ran Yakumo
+式輝「狐狸妖怪レーザー」,Ran Yakumo
+式輝「四面楚歌チャーミング」,Ran Yakumo
+式輝「プリンセス天狐　-Illusion-」,Ran Yakumo
+式弾「アルティメットブディスト」,Ran Yakumo
+式弾「ユーニラタルコンタクト」,Ran Yakumo
+式神「橙」,Ran Yakumo
+「狐狗狸さんの契約」,Ran Yakumo
+幻神「飯綱権現降臨」,Ran Yakumo
+式神「前鬼後鬼の守護」,Ran Yakumo
+式神「憑依荼吉尼天」,Ran Yakumo
+結界「夢と現の呪」,Yukari Yakumo
+結界「動と静の均衡」,Yukari Yakumo
+結界「光と闇の網目」,Yukari Yakumo
+罔両「ストレートとカーブの夢郷」,Yukari Yakumo
+罔両「八雲紫の神隠し」,Yukari Yakumo
+罔両「禅寺に棲む妖蝶」,Yukari Yakumo
+魍魎「二重黒死蝶」,Yukari Yakumo
+式神「八雲藍」,Yukari Yakumo
+「人間と妖怪の境界」,Yukari Yakumo
+結界「生と死の境界」,Yukari Yakumo
+紫奥義「弾幕結界」,Yukari Yakumo

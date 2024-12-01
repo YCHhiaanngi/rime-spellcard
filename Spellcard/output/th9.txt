@@ -1,0 +1,35 @@
+霊符「陰陽印」,Reimu Hakurei
+霊符「夢想封印」,Reimu Hakurei
+霊符「博麗幻影」,Reimu Hakurei
+魔符「スターダスト」,Marisa Kirisame
+魔符「スターダストレヴァリエ」,Marisa Kirisame
+魔符「イリュージョンスター」,Marisa Kirisame
+時符「プライベートヴィジョン」,Sakuya Izayoi
+時符「ミステリアスジャック」,Sakuya Izayoi
+迷符「纏縛剣」,Youmu Konpaku
+迷符「半身大悟」,Youmu Konpaku
+波符「月面波紋(ルナウェーブ)」,Reisen Udongein Inaba
+散符「栄華之夢(ルナメガロポリス)」,Reisen Udongein Inaba
+凍符「パーフェクトフリーズ」,Cirno
+凍符「コールドディヴィニティー」,Cirno
+騒符「ソウルノイズフロー」,Lyrica Prismriver
+騒符「リリカ・ソロライブ」,Lyrica Prismriver
+鳥符「ヒューマンケージ」,Mystia Lorelei
+鳥符「ヒューマンケージダブル」,Mystia Lorelei
+鳥符「ミステリアスソング」,Mystia Lorelei
+兎符「開運大紋」,Tewi Inaba
+兎符「因幡の素兎」,Tewi Inaba
+花符「幻想郷の開花」,Yuuka Kazami
+幻想「花鳥風月、嘯風弄月」,Yuuka Kazami
+風符「風神一扇」,Aya Shameimaru
+疾風「風神少女」,Aya Shameimaru
+毒符「神経の毒」,Medicine Melancholy
+毒符「憂鬱の毒」,Medicine Melancholy
+投銭「宵越しの銭」,Komachi Onozuka
+死神「ヒガンルトゥール」,Komachi Onozuka
+罪符「彷徨える大罪」,Eiki Shiki, Yamaxanadu
+審判「ラストジャッジメント」,Eiki Shiki, Yamaxanadu
+騒符「ソウルゴーハッピー」,Merlin Prismriver
+騒符「メルラン・ハッピーライブ」,Merlin Prismriver
+騒符「ノイズメランコリー」,Lunasa Prismriver
+騒符「ルナサ・ソロライブ」,Lunasa Prismriver
